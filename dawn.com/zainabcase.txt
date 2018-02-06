@@ -1,0 +1,108 @@
+https://www.dawn.com/archive/2018-01-01
+-------------------------------
+[]
+https://www.dawn.com/archive/2018-01-02
+-------------------------------
+[(2, 'rape')]
+https://www.dawn.com/archive/2018-01-03
+-------------------------------
+[]
+https://www.dawn.com/archive/2018-01-04
+-------------------------------
+[(1, 'rape')]
+https://www.dawn.com/archive/2018-01-05
+-------------------------------
+[]
+https://www.dawn.com/archive/2018-01-06
+-------------------------------
+[]
+https://www.dawn.com/archive/2018-01-07
+-------------------------------
+[]
+https://www.dawn.com/archive/2018-01-08
+-------------------------------
+[]
+https://www.dawn.com/archive/2018-01-09
+-------------------------------
+[]
+https://www.dawn.com/archive/2018-01-10
+-------------------------------
+[(4, 'rape')]
+https://www.dawn.com/archive/2018-01-11
+-------------------------------
+[(2, 'rape')]
+https://www.dawn.com/archive/2018-01-12
+-------------------------------
+[(4, 'rape')]
+https://www.dawn.com/archive/2018-01-13
+-------------------------------
+[(2, 'rape')]
+https://www.dawn.com/archive/2018-01-14
+-------------------------------
+[(1, 'rape')]
+https://www.dawn.com/archive/2018-01-15
+-------------------------------
+[(3, 'rape')]
+https://www.dawn.com/archive/2018-01-16
+-------------------------------
+[]
+https://www.dawn.com/archive/2018-01-17
+-------------------------------
+[(1, 'rape')]
+https://www.dawn.com/archive/2018-01-18
+-------------------------------
+[(1, 'molest'), (5, 'rape')]
+https://www.dawn.com/archive/2018-01-19
+-------------------------------
+[(3, 'rape')]
+https://www.dawn.com/archive/2018-01-20
+-------------------------------
+[(3, 'rape')]
+https://www.dawn.com/archive/2018-01-21
+-------------------------------
+[(2, 'rape')]
+https://www.dawn.com/archive/2018-01-22
+-------------------------------
+[(1, 'rape')]
+https://www.dawn.com/archive/2018-01-23
+-------------------------------
+[]
+https://www.dawn.com/archive/2018-01-24
+-------------------------------
+[(3, 'rape')]
+https://www.dawn.com/archive/2018-01-25
+-------------------------------
+[(1, 'rape')]
+https://www.dawn.com/archive/2018-01-26
+-------------------------------
+[(1, 'rape')]
+https://www.dawn.com/archive/2018-01-27
+-------------------------------
+[]
+https://www.dawn.com/archive/2018-01-28
+-------------------------------
+[(1, 'rape')]
+https://www.dawn.com/archive/2018-01-29
+-------------------------------
+[(2, 'rape')]
+https://www.dawn.com/archive/2018-01-30
+-------------------------------
+[(1, 'rape')]
+https://www.dawn.com/archive/2018-01-31
+-------------------------------
+[(1, 'rape')]
+https://www.dawn.com/archive/2018-02-01
+-------------------------------
+[(3, 'rape')]
+https://www.dawn.com/archive/2018-02-02
+-------------------------------
+[(3, 'rape')]
+https://www.dawn.com/archive/2018-02-03
+-------------------------------
+[(6, 'rape')]
+https://www.dawn.com/archive/2018-02-04
+-------------------------------
+[(1, 'rape')]
+https://www.dawn.com/archive/2018-02-05
+-------------------------------
+[(1, 'rape')]

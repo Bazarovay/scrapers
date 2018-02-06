@@ -1,0 +1,108 @@
+https://www.dawn.com/archive/2018-01-01
+-------------------------------
+[(2, 'protest'), (2, 'report'), (2, 'saudi'), (2, 'see'), (2, 'seri'), (2, 'suspect'), (2, 'terrorist'), (2, 'trump'), (2, 'win'), (2, 'wish'), (3, 'get'), (3, 'offici'), (4, 'kill'), (4, 'pakistani'), (4, 'polic'), (4, 'two'), (4, 'us'), (4, 'women'), (4, '‘'), (5, '2018'), (7, 'new'), (7, 'year'), (7, '’'), (9, 'pakistan'), (11, '2017')]
+https://www.dawn.com/archive/2018-01-02
+-------------------------------
+[(3, 'arabia'), (3, 'arrest'), (3, 'case'), (3, 'govt'), (3, 'iran'), (3, 'notic'), (3, 'offic'), (3, 'opposit'), (3, 'parti'), (3, 'protest'), (3, 'return'), (3, 'say'), (3, 'senat'), (3, 'sindh'), (3, 'us'), (3, 'visit'), (4, 'india'), (4, 'karachi'), (4, 'offici'), (4, 'pakistani'), (4, 'trump'), (5, 'issu'), (5, 'kill'), (9, '’'), (12, 'pakistan')]
+https://www.dawn.com/archive/2018-01-03
+-------------------------------
+[(2, 'sack'), (2, 'saudi'), (2, 'shahbaz'), (2, 'state'), (2, 'tell'), (2, 'tweet'), (2, 'upcom'), (2, 'without'), (2, 'year'), (3, 'aid'), (3, 'balochistan'), (3, 'india'), (3, 'karachi'), (3, 'minist'), (3, 'muslim'), (3, 'new'), (3, 'protest'), (3, 'push'), (3, 'senat'), (4, 'say'), (4, 'threaten'), (6, '’'), (7, 'pakistan'), (8, 'trump'), (8, 'us')]
+https://www.dawn.com/archive/2018-01-04
+-------------------------------
+[(2, 'one'), (2, 'order'), (2, 'pak-us'), (2, 'protest'), (2, 'sale'), (2, 'sc'), (2, 'team'), (2, 'the'), (2, 'time'), (2, 'uae'), (2, 'violat'), (2, '‘'), (3, 'alleg'), (3, 'get'), (3, 'indian'), (3, 'iran'), (3, 'khan'), (3, 'kill'), (3, 'new'), (3, 'support'), (3, 'take'), (4, 'say'), (5, '’'), (6, 'us'), (10, 'pakistan')]
+https://www.dawn.com/archive/2018-01-05
+-------------------------------
+[(3, 'forc'), (3, 'govt'), (3, 'india'), (3, 'khan'), (3, 'nawaz'), (3, 'ralli'), (3, 'relat'), (3, 'secur'), (3, 'seek'), (3, 'shahbaz'), (3, 'sindh'), (3, 'team'), (3, 'the'), (3, 'trump'), (4, 'court'), (4, 'minist'), (4, 'protest'), (5, 'apa'), (5, 'iran'), (5, 'karachi'), (5, 'zubaida'), (7, 'pakistan'), (7, 'say'), (8, 'us'), (8, '’')]
+https://www.dawn.com/archive/2018-01-06
+-------------------------------
+[(2, 'young'), (2, 'zealand'), (3, 'aid'), (3, 'book'), (3, 'court'), (3, 'india'), (3, 'indian'), (3, 'khan'), (3, 'lahor'), (3, 'medic'), (3, 'meet'), (3, 'new'), (3, 'poet'), (3, 'report'), (3, 'stori'), (3, 'trade'), (3, 'trump'), (4, 'karachi'), (4, 'man'), (4, 'protest'), (4, 'the'), (5, 'us'), (5, '‘'), (7, 'pakistan'), (13, '’')]
+https://www.dawn.com/archive/2018-01-07
+-------------------------------
+[(2, 'kill'), (2, 'love'), (2, 'marriag'), (2, 'miss'), (2, 'myanmar'), (2, 'pakistani'), (2, 'pml-n'), (2, 'presid'), (2, 'sc'), (2, 'seek'), (2, 'sindh'), (2, 'two'), (2, '‘'), (3, 'balochistan'), (3, 'govt'), (3, 'imran'), (3, 'karachi'), (3, 'non-fict'), (3, 'return'), (3, 'student'), (3, 'us'), (4, 'the'), (4, 'trump'), (6, 'pakistan'), (7, '’')]
+https://www.dawn.com/archive/2018-01-08
+-------------------------------
+[(2, 'women'), (2, 'woo'), (2, 'year'), (3, 'air'), (3, 'arrest'), (3, 'case'), (3, 'compani'), (3, 'govt'), (3, 'india'), (3, 'notic'), (3, 'pay'), (3, 'polit'), (3, 'punjab'), (3, 'report'), (3, 'seek'), (3, 'watch'), (4, 'call'), (4, 'court'), (4, 'sc'), (5, 'iran'), (5, 'take'), (7, 'china'), (8, 'us'), (9, 'pakistan'), (12, '’')]
+https://www.dawn.com/archive/2018-01-09
+-------------------------------
+[(2, 'turn'), (2, 'upcom'), (2, 'urg'), (2, 'vow'), (2, 'work'), (3, 'arabia'), (3, 'end'), (3, 'govt'), (3, 'kill'), (3, 'lanka'), (3, 'new'), (3, 'pml-n'), (3, 'report'), (3, 'saudi'), (3, 'sc'), (3, 'sri'), (3, 'take'), (3, 'trump'), (3, 'us'), (4, 'alleg'), (4, 'sharif'), (5, 'case'), (5, 'karachi'), (6, 'pakistan'), (10, '’')]
+https://www.dawn.com/archive/2018-01-10
+-------------------------------
+[(2, 'the'), (2, 'top'), (2, 'us'), (2, 'year'), (2, 'zainab'), (3, 'ban'), (3, 'court'), (3, 'educ'), (3, 'islamabad'), (3, 'justic'), (3, 'karachi'), (3, 'kasur'), (3, 'offici'), (3, 'pakistan'), (3, 'report'), (4, 'men'), (4, 'rape'), (4, 'say'), (4, 'two'), (4, '‘'), (5, 'case'), (5, 'murder'), (5, 'trump'), (5, 'victim'), (12, '’')]
+https://www.dawn.com/archive/2018-01-11
+-------------------------------
+[(2, 'told'), (2, 'trump'), (2, 'two'), (2, 'warn'), (2, 'win'), (2, 'work'), (3, 'bank'), (3, 'busi'), (3, 'chief'), (3, 'growth'), (3, 'karachi'), (3, 'kill'), (3, 'north'), (3, 'offici'), (3, 'zainab'), (4, 'murder'), (4, 'polic'), (4, 'say'), (4, 'set'), (4, '‘'), (5, 'case'), (5, 'us'), (6, 'report'), (8, 'pakistan'), (9, '’')]
+https://www.dawn.com/archive/2018-01-12
+-------------------------------
+[(3, 'govt'), (3, 'justic'), (3, 'kill'), (3, 'make'), (3, 'new'), (3, 'power'), (3, 'say'), (4, 'india'), (4, 'karachi'), (4, 'kasur'), (4, 'project'), (4, 'protest'), (4, 'rape'), (4, 'sc'), (4, 'sexual'), (5, 'case'), (5, 'china'), (5, 'polic'), (5, 'sindh'), (5, 'trump'), (5, 'us'), (5, '’'), (6, 'murder'), (6, 'pakistan'), (7, 'zainab')]
+https://www.dawn.com/archive/2018-01-13
+-------------------------------
+[(2, 'presid'), (2, 'privat'), (2, 'project'), (2, 'protest'), (2, 'racist'), (2, 'rape'), (2, 'spotlight'), (2, 'take'), (2, 'time'), (2, 'uk'), (2, 'visit'), (3, 'cancel'), (3, 'miss'), (3, 'polic'), (3, 'review'), (3, 'say'), (3, 'the'), (3, 'zainab'), (4, '’'), (5, 'pakistan'), (5, 'us'), (6, 'case'), (6, 'chief'), (6, 'karachi'), (7, 'trump')]
+https://www.dawn.com/archive/2018-01-14
+-------------------------------
+[(2, 'no'), (2, 'offici'), (2, 'pakistan'), (2, 'pml-n'), (2, 'skim'), (2, 'tri'), (2, 'trump'), (2, 'turn'), (2, 'us'), (2, 'voic'), (2, 'warn'), (2, 'water'), (2, '‘'), (3, 'arrest'), (3, 'hope'), (3, 'in'), (3, 'memoriam'), (3, 'non-fict'), (3, 'pakistani'), (3, 'say'), (3, 'tanker'), (4, 'india'), (4, 'the'), (6, 'karachi'), (6, '’')]
+https://www.dawn.com/archive/2018-01-15
+-------------------------------
+[(2, 'suspect'), (2, 'take'), (2, 'trend'), (2, 'uae'), (2, 'year'), (2, 'zainab'), (2, '—'), (2, '‘'), (3, 'armi'), (3, 'case'), (3, 'govt'), (3, 'ihc'), (3, 'karachi'), (3, 'murder'), (3, 'offici'), (3, 'rape'), (3, 'sexual'), (3, 'top'), (3, 'trump'), (3, 'us'), (4, 'say'), (5, 'chief'), (6, 'india'), (7, 'pakistan'), (13, '’')]
+https://www.dawn.com/archive/2018-01-16
+-------------------------------
+[(2, 'surviv'), (2, 'tell'), (2, 'two'), (2, 'visit'), (2, 'war'), (2, '‘'), (3, 'back'), (3, 'court'), (3, 'govt'), (3, 'kill'), (3, 'life'), (3, 'meet'), (3, 'murder'), (3, 'pat'), (3, 'sc'), (3, 'sindh'), (3, 'team'), (3, 'the'), (3, 'us'), (3, 'zainab'), (4, 'protest'), (4, 'seek'), (5, 'case'), (7, 'pakistan'), (8, '’')]
+https://www.dawn.com/archive/2018-01-17
+-------------------------------
+[(3, 'lahor'), (3, 'notic'), (3, 'pti'), (3, 'report'), (3, 'sc'), (3, 'step'), (3, 'take'), (3, 'terror'), (3, 'the'), (3, 'world'), (3, 'year'), (3, 'zainab'), (4, 'case'), (4, 'china'), (4, 'india'), (4, 'polic'), (4, 'say'), (4, 'sindh'), (4, 'sit-in'), (5, 'pakistan'), (6, 'govt'), (6, 'us'), (6, '‘'), (7, 'murder'), (8, '’')]
+https://www.dawn.com/archive/2018-01-18
+-------------------------------
+[(2, 'zainab'), (3, 'alleg'), (3, 'attack'), (3, 'boy'), (3, 'case'), (3, 'continu'), (3, 'dead'), (3, 'govt'), (3, 'investig'), (3, 'pakistan'), (3, 'plan'), (3, 'saudi'), (3, 'shot'), (3, 'team'), (3, 'trump'), (3, 'us'), (3, 'work'), (4, 'india'), (4, 'kill'), (4, 'murder'), (4, '‘'), (5, 'karachi'), (5, 'rape'), (5, '’'), (6, 'polic')]
+https://www.dawn.com/archive/2018-01-19
+-------------------------------
+[(3, 'get'), (3, 'girl'), (3, 'hockey'), (3, 'indian'), (3, 'lhc'), (3, 'naqeebullah'), (3, 'notic'), (3, 'play'), (3, 'rape'), (3, 'sc'), (3, 'sindh'), (3, 'told'), (3, 'visit'), (3, 'world'), (3, 'xi'), (4, 'case'), (4, 'take'), (4, 'urg'), (4, 'us'), (5, 'kill'), (5, 'new'), (5, 'suspect'), (7, '‘'), (14, '’'), (17, 'pakistan')]
+https://www.dawn.com/archive/2018-01-20
+-------------------------------
+[(2, 'trump'), (2, 'when'), (2, 'zainab'), (3, 'assembl'), (3, 'girl'), (3, 'khan'), (3, 'lahor'), (3, 'murder'), (3, 'polic'), (3, 'rape'), (3, 'report'), (3, 'sindh'), (3, 'suspect'), (3, 'urg'), (3, 'world'), (3, '‘'), (4, 'say'), (4, 'the'), (4, 'time'), (5, 'case'), (5, 'karachi'), (5, 'kill'), (5, 'us'), (6, 'pakistan'), (8, '’')]
+https://www.dawn.com/archive/2018-01-21
+-------------------------------
+[(2, 'murder'), (2, 'next'), (2, 'of'), (2, 'quetta'), (2, 'rape'), (2, 'sack'), (2, 'sc'), (2, 'shahbaz'), (2, 'take'), (2, 'trump'), (2, 'us'), (2, 'who'), (3, 'committe'), (3, 'girl'), (3, 'lahor'), (3, 'non-fict'), (3, 'probe'), (3, 'the'), (3, 'year'), (4, 'karachi'), (4, 'pakistan'), (4, 'polic'), (4, '’'), (5, 'case'), (5, 'end')]
+https://www.dawn.com/archive/2018-01-22
+-------------------------------
+[(3, 'abbasi'), (3, 'accus'), (3, 'dead'), (3, 'death'), (3, 'end'), (3, 'foreign'), (3, 'kabul'), (3, 'karachi'), (3, 'militari'), (3, 'nab'), (3, 'new'), (3, 'no'), (3, 'pakistani'), (3, 'pm'), (3, 'polic'), (3, 'polici'), (3, 'say'), (3, 'sc'), (3, 'take'), (3, 'women'), (4, 'pakistan'), (4, 'senat'), (4, '’'), (5, 'case'), (6, 'us')]
+https://www.dawn.com/archive/2018-01-23
+-------------------------------
+[(3, 'judiciari'), (3, 'kill'), (3, 'nab'), (3, 'parliament'), (3, 'rao'), (3, 'refuge'), (3, 'report'), (3, 'rohingya'), (3, 'seek'), (3, 'senat'), (3, 'us'), (3, 'women'), (3, 'work'), (4, 'end'), (4, 'govt'), (4, 'murder'), (4, 'sindh'), (4, 'student'), (4, 'take'), (5, 'case'), (5, 'pakistan'), (5, 'polic'), (5, 'say'), (5, '‘'), (9, '’')]
+https://www.dawn.com/archive/2018-01-24
+-------------------------------
+[(2, 'support'), (2, 'teenag'), (2, 'time'), (2, 'us'), (2, 'victim'), (2, 'women'), (3, 'abbasi'), (3, 'arrest'), (3, 'child'), (3, 'court'), (3, 'davo'), (3, 'nab'), (3, 'pti'), (3, 'rape'), (3, 'run'), (3, 'russia'), (3, 'uae'), (4, 'chief'), (4, 'murder'), (4, 'pm'), (4, 'polic'), (5, 'zainab'), (6, 'say'), (7, 'pakistan'), (8, '’')]
+https://www.dawn.com/archive/2018-01-25
+-------------------------------
+[(2, 'terrorist'), (2, 'test'), (2, 'told'), (2, 'win'), (3, 'account'), (3, 'convict'), (3, 'court'), (3, 'dna'), (3, 'intizar'), (3, 'justic'), (3, 'kasur'), (3, 'kill'), (3, 'loss'), (3, 'probe'), (3, 'trump'), (3, 'zainab'), (4, 'pakistan'), (4, 'polic'), (4, 'sc'), (5, 'case'), (5, 'us'), (5, '‘'), (6, 'say'), (7, 'murder'), (15, '’')]
+https://www.dawn.com/archive/2018-01-26
+-------------------------------
+[(2, 'suspect'), (2, 'team'), (2, 'top'), (2, 'two'), (2, 'world'), (3, 'ahsan'), (3, 'bank'), (3, 'final'), (3, 'go'), (3, 'iqbal'), (3, 'miss'), (3, 'sc'), (3, 'senat'), (3, 'stop'), (3, 'tell'), (3, 'trump'), (3, 'us'), (3, 'want'), (3, '—'), (4, 'zainab'), (5, 'case'), (6, 'india'), (6, '‘'), (8, 'pakistan'), (13, '’')]
+https://www.dawn.com/archive/2018-01-27
+-------------------------------
+[(2, 'rao'), (2, 'report'), (2, 'rescu'), (2, 'review'), (2, 'saudi'), (2, 'set'), (2, 'six'), (2, 'south'), (2, 'strike'), (2, 'student'), (2, 'win'), (2, 'year'), (3, 'kp'), (3, 'senat'), (3, 'sindh'), (3, 'stori'), (3, 'time'), (3, 'us'), (3, 'world'), (3, '‘'), (4, 'pakistan'), (5, 'kill'), (5, 'say'), (6, 'the'), (9, '’')]
+https://www.dawn.com/archive/2018-01-28
+-------------------------------
+[(2, 'what'), (2, 'who'), (2, 'work'), (3, 'arrest'), (3, 'fire'), (3, 'girl'), (3, 'in'), (3, 'indian'), (3, 'karachi'), (3, 'kill'), (3, 'murder'), (3, 'non-fict'), (3, 'pakistani'), (3, 'sc'), (3, 'suspect'), (3, 'zainab'), (4, 'kabul'), (4, 'pakistan'), (4, 'take'), (4, 'the'), (4, 'us'), (5, 'new'), (5, '‘'), (6, 'case'), (11, '’')]
+https://www.dawn.com/archive/2018-01-29
+-------------------------------
+[(2, 'zainab'), (3, '2018'), (3, 'attack'), (3, 'dead'), (3, 'elect'), (3, 'fight'), (3, 'karachi'), (3, 'kill'), (3, 'near'), (3, 'person'), (3, 'sc'), (3, 'senat'), (3, 'student'), (3, 'suspect'), (3, 'take'), (3, 'the'), (3, '‘'), (4, 'arrest'), (4, 'murder'), (4, 'sindh'), (5, 'case'), (5, 'pakistan'), (5, 'polic'), (6, 'say'), (10, '’')]
+https://www.dawn.com/archive/2018-01-30
+-------------------------------
+[(2, 'tv'), (2, 'uk'), (2, 'urdu'), (3, 'china'), (3, 'cup'), (3, 'elect'), (3, 'girl'), (3, 'man'), (3, 'miss'), (3, 'nab'), (3, 'nanga'), (3, 'parbat'), (3, 'rescu'), (3, 'two'), (3, 'women'), (4, 'india'), (4, 'kill'), (4, 'report'), (4, '‘'), (5, 'sc'), (5, 'world'), (6, 'case'), (6, 'us'), (8, 'pakistan'), (14, '’')]
+https://www.dawn.com/archive/2018-01-31
+-------------------------------
+[(2, 'told'), (2, 'us'), (2, 'violat'), (3, 'accus'), (3, 'afghan'), (3, 'alleg'), (3, 'issu'), (3, 'kill'), (3, 'men'), (3, 'opposit'), (3, 'saudi'), (3, 'sc'), (3, 'student'), (3, 'trump'), (4, 'murder'), (4, 'report'), (4, 'senat'), (4, 'suspect'), (4, '‘'), (5, 'say'), (6, 'case'), (6, 'court'), (6, 'girl'), (7, 'pakistan'), (11, '’')]
+https://www.dawn.com/archive/2018-02-01
+-------------------------------
+[(2, 'us'), (2, 'warrior'), (3, 'accus'), (3, 'alleg'), (3, 'bodi'), (3, 'child'), (3, 'cjp'), (3, 'high'), (3, 'in'), (3, 'khan'), (3, 'pakistani'), (3, 'polic'), (3, 'rape'), (3, 'seek'), (3, 'state'), (3, 'world'), (4, 'first'), (4, 'i'), (4, 'murder'), (5, 'case'), (5, 'say'), (6, 'court'), (6, 'pakistan'), (6, '‘'), (11, '’')]
+https://www.dawn.com/archive/2018-02-02
+-------------------------------
+[(3, 'abus'), (3, 'arrest'), (3, 'attack'), (3, 'bijarani'), (3, 'challeng'), (3, 'chief'), (3, 'children'), (3, 'girl'), (3, 'govt'), (3, 'hold'), (3, 'karachi'), (3, 'pml-n'), (3, 'rape'), (3, 'senat'), (3, 'student'), (3, 'take'), (3, 'town'), (3, 'us'), (4, 'alleg'), (4, 'new'), (4, 'polic'), (5, 'say'), (6, 'report'), (7, 'pakistan'), (7, '’')]
+https://www.dawn.com/archive/2018-02-03
+-------------------------------
+[(2, 'suspect'), (2, 'take'), (2, 'us'), (2, 'vow'), (3, 'accus'), (3, 'afghanistan'), (3, 'alleg'), (3, 'girl'), (3, 'judiciari'), (3, 'khan'), (3, 'man'), (3, 'offic'), (3, 'school'), (3, 'stori'), (3, 'the'), (3, 'world'), (3, '‘'), (4, 'cup'), (4, 'pakistan'), (4, 'time'), (5, 'arrest'), (5, 'say'), (6, 'polic'), (6, 'rape'), (7, '’')]
+https://www.dawn.com/archive/2018-02-04
+-------------------------------
+[(2, 'poetri'), (2, 'polit'), (2, 'poll'), (2, 'releas'), (2, 'russian'), (2, 'sea'), (2, 'spell'), (2, 'system'), (2, 'use'), (2, 'woman'), (3, 'indian'), (3, 'judici'), (3, 'nuclear'), (3, 'of'), (3, 'power'), (3, 'pti'), (3, 'seek'), (3, 'senat'), (3, 'us'), (3, '‘'), (4, 'pakistan'), (4, 'with'), (5, 'kill'), (5, 'the'), (8, '’')]
+https://www.dawn.com/archive/2018-02-05
+-------------------------------
+[(2, 'say'), (2, 'sexual'), (2, 'sharif'), (2, 'shot'), (2, 'south'), (2, 'stand'), (2, 'take'), (2, 'this'), (2, 'warn'), (3, 'attack'), (3, 'chines'), (3, 'citi'), (3, 'day'), (3, 'islamabad'), (3, 'name'), (3, 'pml-n'), (3, 'polici'), (3, 'target'), (3, 'top'), (3, 'us'), (3, '‘'), (4, 'india'), (4, 'pakistan'), (7, 'kashmir'), (8, '’')]

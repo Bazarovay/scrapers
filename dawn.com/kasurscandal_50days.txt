@@ -1,0 +1,250 @@
+https://www.dawn.com/archive/2015-08-01
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'strike'), (2, 'test'), (2, 'today'), (2, 'track'), (2, 'un'), (2, 'world'), (3, 'afghan'), (3, 'get'), (3, 'govt'), (3, 'peac'), (3, 'report'), (3, 'secur'), (3, 'special'), (3, 'stori'), (3, 'taliban'), (3, 'talk'), (3, 'us'), (3, '‘'), (4, 'olymp'), (4, 'school'), (4, 'take'), (4, 'the'), (4, 'win'), (7, '’'), (10, 'pakistan')]
+https://www.dawn.com/archive/2015-08-02
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'seek'), (2, 'south'), (2, 'statement'), (2, 'station'), (2, 'taliban'), (2, 'trader'), (3, 'case'), (3, 'chief'), (3, 'edit'), (3, 'indian'), (3, 'kp'), (3, 'live'), (3, 'matter'), (3, 'move'), (3, 'oil'), (3, 'pakistan'), (3, 'talk'), (3, 'tax'), (5, 'dead'), (5, 'issu'), (5, 'review'), (5, '‘'), (6, 'new'), (6, 'the'), (10, '’')]
+https://www.dawn.com/archive/2015-08-03
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'tri'), (2, 'turkish'), (2, 'uk'), (2, 'view'), (2, 'war'), (3, 'altaf'), (3, 'attack'), (3, 'dead'), (3, 'indian'), (3, 'karachi'), (3, 'monsoon'), (3, 'polic'), (3, 'set'), (3, 'speech'), (4, 'arrest'), (4, 'kp'), (4, 'like'), (4, 'secur'), (5, 'flood'), (5, 'kill'), (5, 'pakistan'), (6, 'end'), (6, 'say'), (6, '‘'), (16, '’')]
+https://www.dawn.com/archive/2015-08-04
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'hussain'), (3, 'india'), (3, 'karachi'), (3, 'minist'), (3, 'mqm'), (3, 'olymp'), (3, 'peac'), (3, 'pm'), (3, 'rebel'), (3, 'secur'), (3, 'seek'), (3, 'special'), (3, 'talk'), (3, 'world'), (4, 'balochistan'), (4, 'case'), (4, 'chief'), (4, 'kill'), (4, 'today'), (5, 'altaf'), (5, 'pakistan'), (5, 'say'), (6, 'flood'), (7, '‘'), (19, '’')]
+https://www.dawn.com/archive/2015-08-05
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'sentenc'), (2, 'suspect'), (2, 'top'), (2, 'trade'), (2, 'traffic'), (2, 'uk'), (2, 'un'), (2, 'us'), (2, 'war'), (2, 'warrant'), (2, 'women'), (2, 'year'), (2, 'yet'), (2, '‘'), (3, 'afghan'), (3, 'case'), (3, 'court'), (3, 'india'), (3, 'pakistani'), (3, 'plan'), (3, 'two'), (4, 'indian'), (4, 'karachi'), (5, 'pakistan'), (5, '’')]
+https://www.dawn.com/archive/2015-08-06
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'deal'), (3, 'deseat'), (3, 'jui-f'), (3, 'karachi'), (3, 'life'), (3, 'motion'), (3, 'mqm'), (3, 'plan'), (3, 'relat'), (3, 'suspect'), (3, 'three'), (3, 'water'), (4, 'case'), (4, 'india'), (4, 'pakistani'), (4, 'pti'), (4, '‘'), (5, 'attack'), (5, 'govt'), (5, 'new'), (6, 'militari'), (7, 'pakistan'), (9, 'court'), (12, 'kill'), (13, '’')]
+https://www.dawn.com/archive/2015-08-07
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'go'), (3, 'govt'), (3, 'india'), (3, 'karachi'), (3, 'khan'), (3, 'life'), (3, 'peopl'), (3, 'polic'), (3, 'report'), (3, 'resolut'), (3, 'sinc'), (3, 'two'), (3, 'wound'), (4, 'altaf'), (4, 'case'), (4, 'releas'), (4, 'the'), (4, '‘'), (5, 'attack'), (5, 'pakistan'), (5, 'pti'), (5, 'say'), (5, 'year'), (6, 'kill'), (12, '’')]
+https://www.dawn.com/archive/2015-08-08
+-------------------------------
+[(1, 'molest')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'use'), (2, 'year'), (2, '—'), (3, 'child'), (3, 'crisi'), (3, 'fall'), (3, 'five'), (3, 'khan'), (3, 'leagu'), (3, 'new'), (3, 'pakistani'), (3, 'pm'), (3, 'polic'), (3, 'premier'), (3, 'question'), (3, 'stock'), (3, 'test'), (3, 'the'), (3, 'vow'), (3, 'wasim'), (3, '‘'), (4, 'india'), (4, 'pakistan'), (5, 'say'), (10, '’')]
+https://www.dawn.com/archive/2015-08-09
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'new'), (2, 'partit'), (2, 'power'), (2, 'return'), (2, 'review'), (2, 'set'), (2, 'state'), (2, 'suspect'), (2, 'system'), (2, 'target'), (2, 'tiger'), (2, 'tomorrow'), (2, 'two'), (2, 'typhoon'), (2, 'zakaria'), (3, 'death'), (3, 'indian'), (3, 'say'), (3, 'start'), (4, 'taliban'), (5, 'us'), (6, 'kill'), (7, 'the'), (7, '‘'), (15, '’')]
+https://www.dawn.com/archive/2015-08-10
+-------------------------------
+[(1, 'molest'), (1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'turkey'), (2, 'urg'), (2, 'us'), (2, 'use'), (2, 'victim'), (2, 'view'), (2, 'wasim'), (2, 'worker'), (2, 'world'), (3, 'balochistan'), (3, 'indian'), (3, 'leav'), (3, 'milit'), (3, 'visit'), (4, 'arrest'), (4, 'india'), (4, 'kill'), (4, 'scandal'), (5, 'mqm'), (5, '‘'), (6, 'say'), (7, 'abus'), (7, 'child'), (7, 'pakistan'), (8, '’')]
+https://www.dawn.com/archive/2015-08-11
+-------------------------------
+[(1, 'sexual')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'stock'), (2, 'suspect'), (2, 'tell'), (2, 'trade'), (2, 'two'), (2, 'want'), (2, 'who'), (3, 'afghanistan'), (3, 'approv'), (3, 'chief'), (3, 'committe'), (3, 'lhc'), (3, 'make'), (3, 'parliament'), (3, 'seek'), (4, 'fire'), (4, 'indian'), (4, 'mqm'), (4, 'polic'), (5, 'kill'), (5, '‘'), (6, 'abus'), (6, 'child'), (9, 'pakistan'), (13, '’')]
+https://www.dawn.com/archive/2015-08-12
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'kill'), (3, 'lawmak'), (3, 'like'), (3, 'minor'), (3, 'mqm'), (3, 'murder'), (3, 'nab'), (3, 'seek'), (3, 'sindh'), (3, 'taliban'), (3, 'un'), (4, 'afghan'), (4, 'four'), (4, 'help'), (4, 'kasur'), (4, 'us'), (5, 'attack'), (5, 'case'), (5, 'india'), (5, 'new'), (5, 'say'), (6, 'arrest'), (7, 'pakistan'), (11, '‘'), (25, '’')]
+https://www.dawn.com/archive/2015-08-13
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'villag'), (2, 'zarif'), (3, '10'), (3, 'august'), (3, 'ban'), (3, 'case'), (3, 'get'), (3, 'govt'), (3, 'india'), (3, 'indian'), (3, 'karachi'), (3, 'kasur'), (3, 'mqm'), (3, 'need'), (3, 'poll'), (3, 'punjab'), (4, 'anoth'), (4, 'chief'), (4, 'new'), (4, 'resign'), (4, 'the'), (6, 'day'), (6, 'pakistan'), (6, '‘'), (15, '’')]
+https://www.dawn.com/archive/2015-08-14
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'seek'), (2, 'state'), (2, 'suspect'), (2, 'test'), (2, 'the'), (2, 'us'), (2, 'weapon'), (2, 'what'), (3, 'mqm'), (3, 'nation'), (3, 'probe'), (3, 'readi'), (3, 'talk'), (3, 'three'), (3, '‘'), (4, 'case'), (4, 'india'), (4, 'karachi'), (4, 'new'), (4, 'pakistan'), (5, 'pakistani'), (6, 'year'), (10, 'independ'), (10, '’'), (14, 'day')]
+https://www.dawn.com/archive/2015-08-15
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'respons'), (2, 'return'), (2, 'role'), (2, 'stori'), (2, 'test'), (2, 'use'), (2, 'wwii'), (3, 'celebr'), (3, 'continu'), (3, 'crisi'), (3, 'demand'), (3, 'flag'), (3, 'govt'), (3, 'offer'), (3, 'pm'), (3, 'say'), (4, 'day'), (4, 'india'), (4, 'kp'), (4, 'the'), (4, 'us'), (4, '‘'), (5, 'independ'), (5, 'pakistan'), (9, '’')]
+https://www.dawn.com/archive/2015-08-16
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'shuja'), (2, 'site'), (2, 'strike'), (2, 'style'), (2, 'team'), (2, 'troop'), (2, 'win'), (3, 'attack'), (3, 'give'), (3, 'leader'), (3, 'mqm'), (3, 'pakistan'), (3, 'pml-n'), (3, 'pti'), (3, 'review'), (3, 'say'), (3, 'terrorist'), (3, 'urg'), (3, 'wing'), (4, 'china'), (4, 'three'), (5, 'the'), (6, '‘'), (9, 'kill'), (17, '’')]
+https://www.dawn.com/archive/2015-08-17
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'arriv'), (3, 'attock'), (3, 'balochistan'), (3, 'fight'), (3, 'india'), (3, 'karachi'), (3, 'lanka'), (3, 'milit'), (3, 'murder'), (3, 'pakistani'), (3, 'protect'), (3, 'right'), (3, 'sri'), (3, 'suspect'), (4, 'dead'), (4, 'four'), (4, 'indian'), (4, 'polic'), (4, 'us'), (5, 'attack'), (5, 'leader'), (6, 'pakistan'), (6, '‘'), (10, 'kill'), (14, '’')]
+https://www.dawn.com/archive/2015-08-18
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'a'), (3, 'ali'), (3, 'case'), (3, 'chief'), (3, 'fia'), (3, 'govt'), (3, 'karachi'), (3, 'khan'), (3, 'leader'), (3, 'rise'), (3, 'say'), (3, 'seek'), (3, 'suspect'), (3, 'the'), (3, 'urg'), (4, 'attock'), (4, 'call'), (4, 'kill'), (4, 'mqm'), (4, 'pm'), (4, 'sc'), (5, 'attack'), (8, 'pakistan'), (9, '‘'), (16, '’')]
+https://www.dawn.com/archive/2015-08-19
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'attack'), (3, 'blast'), (3, 'border'), (3, 'case'), (3, 'continu'), (3, 'cricket'), (3, 'govt'), (3, 'india'), (3, 'indian'), (3, 'milit'), (3, 'new'), (3, 'poll'), (3, 'protect'), (3, 'sc'), (3, 'seek'), (3, 'two'), (3, 'un'), (4, 'sindh'), (4, 'suspect'), (5, 'kill'), (5, 'say'), (6, 'chief'), (10, '‘'), (11, 'pakistan'), (21, '’')]
+https://www.dawn.com/archive/2015-08-20
+-------------------------------
+[(1, 'sexual')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'mqm'), (3, 'offic'), (3, 'pm'), (3, 'punjab'), (3, 'send'), (3, 'support'), (3, 'suspect'), (3, 'take'), (3, 'the'), (3, 'tie'), (3, 'year'), (4, 'arrest'), (4, 'ban'), (4, 'govt'), (4, 'order'), (4, 'say'), (4, 'urg'), (4, 'us'), (5, 'india'), (5, 'polic'), (5, 'un'), (6, 'sindh'), (7, 'pakistan'), (9, '‘'), (18, '’')]
+https://www.dawn.com/archive/2015-08-21
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'increas'), (3, 'india'), (3, 'lanka'), (3, 'men'), (3, 'new'), (3, 'oper'), (3, 'order'), (3, 'protest'), (3, 'secur'), (3, 'sri'), (3, 'talk'), (3, 'work'), (4, 'butt'), (4, 'held'), (4, 'kill'), (4, 'meet'), (4, 'polic'), (4, 'take'), (4, 'test'), (4, 'two'), (6, 'arrest'), (7, 'karachi'), (7, 'pakistan'), (7, '‘'), (14, '’')]
+https://www.dawn.com/archive/2015-08-22
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'three'), (2, 'two'), (2, 'unit'), (2, 'war'), (2, 'will'), (2, 'world'), (3, 'armi'), (3, 'crisi'), (3, 'india'), (3, 'pakistan'), (3, 'pm'), (3, 'punjab'), (3, 'seek'), (3, 'talk'), (3, 'train'), (3, 'us'), (3, 'visit'), (4, 'case'), (4, 'new'), (4, 'polic'), (4, 'say'), (5, 'govt'), (5, 'kill'), (10, '‘'), (18, '’')]
+https://www.dawn.com/archive/2015-08-23
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'verdict'), (2, 'what'), (2, 'year'), (3, 'attack'), (3, 'chines'), (3, 'decis'), (3, 'face'), (3, 'fall'), (3, 'mqm'), (3, 'plan'), (3, 'pml-n'), (3, 'polic'), (3, 'rescu'), (3, 'resign'), (3, 'say'), (3, 'time'), (3, 'two'), (3, '‘'), (4, 'a'), (4, 'kill'), (4, 'three'), (5, 'review'), (5, 'talk'), (5, 'the'), (12, '’')]
+https://www.dawn.com/archive/2015-08-24
+-------------------------------
+[(1, 'sexual')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'challeng'), (3, 'chief'), (3, 'final'), (3, 'leav'), (3, 'meet'), (3, 'mqm'), (3, 'sangakkara'), (3, 'suspect'), (3, 'terrorist'), (4, 'case'), (4, 'court'), (4, 'khan'), (4, 'star'), (4, 'talk'), (4, 'us'), (5, 'attack'), (5, 'india'), (5, 'kill'), (5, 'one'), (5, 'say'), (5, 'win'), (6, 'pakistan'), (6, 'two'), (6, '‘'), (13, '’')]
+https://www.dawn.com/archive/2015-08-25
+-------------------------------
+[(1, 'sexual'), (1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'get'), (3, 'govt'), (3, 'india'), (3, 'milit'), (3, 'militari'), (3, 'order'), (3, 'say'), (3, 'sc'), (3, 'three'), (3, 'trade'), (3, 'war'), (4, 'call'), (4, 'death'), (4, 'kill'), (4, 'oil'), (4, 'protest'), (5, 'attack'), (5, 'court'), (5, 'karachi'), (5, 'market'), (5, 'pakistan'), (5, 'us'), (7, '‘'), (8, 'two'), (9, '’')]
+https://www.dawn.com/archive/2015-08-26
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'afghan'), (3, 'air'), (3, 'china'), (3, 'fall'), (3, 'indian'), (3, 'intern'), (3, 'refuge'), (3, 'threat'), (4, 'attack'), (4, 'call'), (4, 'command'), (4, 'elect'), (4, 'govt'), (4, 'new'), (4, 'protest'), (4, 'report'), (4, 'the'), (4, 'two'), (5, 'pakistan'), (5, 'punjab'), (6, 'india'), (6, 'kill'), (8, 'us'), (10, '‘'), (26, '’')]
+https://www.dawn.com/archive/2015-08-27
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'arrest'), (3, 'bugti'), (3, 'case'), (3, 'day'), (3, 'envoy'), (3, 'india'), (3, 'milit'), (3, 'oil'), (3, 'pakistani'), (3, 'ppp'), (3, 'red'), (3, 'say'), (3, 'soldier'), (3, 'stock'), (3, 'talk'), (3, 'un'), (4, 'indian'), (4, 'karachi'), (4, 'terror'), (4, 'us'), (5, 'two'), (6, '‘'), (8, 'kill'), (12, 'pakistan'), (19, '’')]
+https://www.dawn.com/archive/2015-08-28
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'test'), (2, 'two'), (2, 'ukrain'), (2, 'war'), (2, 'work'), (3, 'announc'), (3, 'arrest'), (3, 'elect'), (3, 'global'), (3, 'i'), (3, 'is'), (3, 'khan'), (3, 'make'), (3, 'three'), (3, 'troop'), (3, 'us'), (4, 'ecp'), (4, 'market'), (4, 'polic'), (4, 'say'), (5, 'india'), (6, 'pakistan'), (7, 'kill'), (9, '‘'), (17, '’')]
+https://www.dawn.com/archive/2015-08-29
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'third'), (2, 'thousand'), (2, 'town'), (2, 'un'), (2, 'want'), (2, 'warn'), (2, 'week'), (2, 'year'), (3, 'court'), (3, 'imran'), (3, 'launch'), (3, 'pakistan'), (3, 'sit-in'), (3, 'take'), (3, 'three'), (3, 'trade'), (4, 'india'), (4, 'is'), (4, 'ranger'), (4, 'say'), (4, 'the'), (5, 'kill'), (7, 'us'), (8, '‘'), (13, '’')]
+https://www.dawn.com/archive/2015-08-30
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'make'), (2, 'meet'), (2, 'nsa'), (2, 'oil'), (2, 'past'), (2, 'present'), (2, 'review'), (2, 'slam'), (2, 'specul'), (2, 'two'), (2, 'visit'), (2, 'women'), (2, '‘'), (3, 'art'), (3, 'ask'), (3, 'four'), (3, 'pakistan'), (3, 'sindh'), (3, 'suspect'), (3, 'war'), (4, 'a'), (4, 'govt'), (4, 'the'), (4, 'us'), (14, '’')]
+https://www.dawn.com/archive/2015-08-31
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'view'), (2, 'well'), (2, 'win'), (2, 'wrap'), (3, 'ban'), (3, 'elect'), (3, 'execut'), (3, 'get'), (3, 'govt'), (3, 'karachi'), (3, 'market'), (3, 'protest'), (3, 'secur'), (3, 'seri'), (3, 'us'), (3, 'women'), (3, '‘'), (4, 'call'), (4, 'ecp'), (4, 'pakistani'), (5, 'a'), (5, 'india'), (6, 'new'), (6, 'say'), (9, '’')]
+https://www.dawn.com/archive/2015-09-01
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'worth'), (3, 'back'), (3, 'charg'), (3, 'day'), (3, 'five'), (3, 'india'), (3, 'indian'), (3, 'minist'), (3, 'open'), (3, 'pakistan'), (3, 'presid'), (3, 'return'), (3, 'team'), (3, 'three'), (3, 'two'), (4, 'attack'), (4, 'chief'), (4, 'china'), (4, 'show'), (5, 'arrest'), (5, 'kill'), (6, 'karachi'), (6, 'us'), (10, '‘'), (19, '’')]
+https://www.dawn.com/archive/2015-09-02
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'armi'), (3, 'arrest'), (3, 'attack'), (3, 'could'), (3, 'karachi'), (3, 'khan'), (3, 'leader'), (3, 'open'), (3, 'pm'), (3, 'polic'), (3, 'ppp'), (3, 'secur'), (3, 'seek'), (3, 'two'), (3, 'us'), (4, 'chief'), (4, 'pakistan'), (4, 'suspect'), (5, 'bomb'), (5, 'milit'), (5, 'say'), (6, '‘'), (7, 'case'), (8, 'kill'), (17, '’')]
+https://www.dawn.com/archive/2015-09-03
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'water'), (2, 'work'), (2, 'year'), (3, 'ask'), (3, 'bodi'), (3, 'claim'), (3, 'die'), (3, 'dismiss'), (3, 'hospit'), (3, 'india'), (3, 'indian'), (3, 'iran'), (3, 'live'), (3, 'poll'), (3, 'reform'), (3, 'sc'), (3, 'us'), (4, 'govt'), (4, 'ranger'), (4, 'say'), (4, 'test'), (4, 'two'), (7, 'pakistan'), (8, '‘'), (19, '’')]
+https://www.dawn.com/archive/2015-09-04
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'quit'), (3, 'seal'), (3, 'secur'), (3, 'seek'), (3, 'seminari'), (3, 'syria'), (3, 'take'), (3, 'tax'), (3, 'two'), (3, 'un'), (3, 'want'), (3, 'war'), (3, 'world'), (4, 'case'), (4, 'famili'), (4, 'karachi'), (4, 'kill'), (4, 'man'), (4, 'refuge'), (5, 'say'), (5, '‘'), (6, 'open'), (7, 'pakistan'), (8, 'us'), (17, '’')]
+https://www.dawn.com/archive/2015-09-05
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'us'), (2, 'villag'), (2, 'week'), (2, 'with'), (2, 'worker'), (3, 'afghanistan'), (3, 'case'), (3, 'day'), (3, 'fight'), (3, 'kill'), (3, 'malik'), (3, 'nab'), (3, 'pakistan'), (3, 'refuge'), (3, 'secur'), (3, 'sindh'), (3, 'take'), (3, 'time'), (4, 'india'), (4, 'karachi'), (4, 'pakistani'), (4, 'un'), (5, 'mqm'), (5, '‘'), (16, '’')]
+https://www.dawn.com/archive/2015-09-06
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'two'), (2, 'urg'), (2, 'what'), (2, 'whi'), (2, 'wit'), (3, 'afghanistan'), (3, 'attack'), (3, 'case'), (3, 'chief'), (3, 'govt'), (3, 'is'), (3, 'lahor'), (3, 'milit'), (3, 'nab'), (3, 'polic'), (3, 'review'), (3, 'us'), (4, 'armi'), (4, 'migrant'), (4, 'the'), (5, 'talk'), (5, 'war'), (6, 'pakistan'), (9, '‘'), (19, '’')]
+https://www.dawn.com/archive/2015-09-07
+-------------------------------
+[(1, 'rape'), (1, 'sexual')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'afghan'), (3, 'armi'), (3, 'begin'), (3, 'cricket'), (3, 'day'), (3, 'defenc'), (3, 'england'), (3, 'indian'), (3, 'is'), (3, 'militari'), (3, 'need'), (3, 'new'), (3, 'pakistani'), (3, 'polit'), (3, 'take'), (3, 'tax'), (3, 'war'), (4, 'case'), (4, 'karachi'), (4, 'khan'), (4, 'say'), (5, 'kill'), (5, 'us'), (6, 'pakistan'), (10, '’')]
+https://www.dawn.com/archive/2015-09-08
+-------------------------------
+[(1, 'molest')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'india'), (3, 'karachi'), (3, 'offici'), (3, 'polic'), (3, 'poll'), (3, 'refuge'), (3, 'sc'), (3, 'seek'), (3, 'top'), (3, 'urg'), (3, 'us'), (3, 'want'), (3, 'world'), (4, 'chief'), (4, 'germani'), (4, 'pakistani'), (4, 'report'), (5, 'case'), (5, 'court'), (5, 'govt'), (5, 'kill'), (5, 'pakistan'), (6, 'order'), (9, '‘'), (20, '’')]
+https://www.dawn.com/archive/2015-09-09
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'state'), (2, 'strike'), (2, 'talk'), (2, 'tax'), (2, 'terror'), (2, 'un'), (2, 'urg'), (2, 'year'), (2, 'yemen'), (3, 'action'), (3, 'call'), (3, 'deleg'), (3, 'fire'), (3, 'leader'), (3, 'life'), (3, 'time'), (3, 'told'), (4, 'india'), (4, 'indian'), (4, 'kill'), (4, 'polic'), (5, 'govt'), (5, '‘'), (7, 'pakistan'), (12, '’')]
+https://www.dawn.com/archive/2015-09-10
+-------------------------------
+[(1, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'food'), (3, 'hold'), (3, 'indian'), (3, 'is'), (3, 'islamabad'), (3, 'lahor'), (3, 'make'), (3, 'minist'), (3, 'play'), (3, 'pm'), (3, 'refuge'), (3, 'sign'), (3, 'tax'), (3, 'top'), (3, 'us'), (4, 'countri'), (4, 'ppp'), (4, 'say'), (4, 'set'), (4, 'two'), (5, 'govt'), (6, 'india'), (6, 'pakistan'), (13, '‘'), (20, '’')]
+https://www.dawn.com/archive/2015-09-11
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'year'), (3, 'arrest'), (3, 'attack'), (3, 'bomb'), (3, 'capit'), (3, 'court'), (3, 'fire'), (3, 'govt'), (3, 'held'), (3, 'india'), (3, 'karachi'), (3, 'kashmir'), (3, 'parti'), (3, 'refuge'), (3, 'terror'), (3, 'two'), (4, 'border'), (4, 'china'), (5, 'ban'), (5, 'kill'), (5, 'us'), (6, 'new'), (7, 'pakistan'), (10, '‘'), (25, '’')]
+https://www.dawn.com/archive/2015-09-12
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'terror'), (2, 'top'), (2, 'urg'), (3, 'end'), (3, 'four'), (3, 'how'), (3, 'india'), (3, 'karachi'), (3, 'leader'), (3, 'minist'), (3, 'offici'), (3, 'pm'), (3, 'ppp'), (3, 'ranger'), (3, 'target'), (3, 'the'), (3, 'train'), (3, 'two'), (4, 'china'), (5, 'pakistan'), (5, 'us'), (6, 'kill'), (6, 'say'), (6, '‘'), (12, '’')]
+https://www.dawn.com/archive/2015-09-13
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'turkish'), (2, 'unveil'), (2, 'us'), (2, 'win'), (2, 'woman'), (3, 'back'), (3, 'balochistan'), (3, 'clash'), (3, 'cover'), (3, 'drive'), (3, 'four'), (3, 'in'), (3, 'india'), (3, 'leader'), (3, 'say'), (3, 'two'), (3, 'what'), (3, 'world'), (4, 'polic'), (4, 'review'), (4, 'suspect'), (6, '‘'), (7, 'kill'), (8, 'the'), (12, '’')]
+https://www.dawn.com/archive/2015-09-14
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'un'), (2, 'verifi'), (2, 'waziristan'), (2, 'week'), (2, 'without'), (2, 'yemen'), (2, '–'), (3, 'ask'), (3, 'forc'), (3, 'law'), (3, 'like'), (3, 'open'), (3, 'pari'), (3, 'polit'), (3, 'refuge'), (3, 'the'), (4, 'milit'), (4, 'need'), (4, 'pm'), (4, 'polici'), (5, 'india'), (5, 'us'), (5, '‘'), (6, 'kill'), (16, '’')]
+https://www.dawn.com/archive/2015-09-15
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'lahor'), (3, 'name'), (3, 'new'), (3, 'offici'), (3, 'punjab'), (3, 'report'), (3, 'suspect'), (3, 'terror'), (3, 'two'), (3, 'un'), (3, 'win'), (4, 'attack'), (4, 'case'), (4, 'govt'), (4, 'militari'), (4, 'minist'), (4, 'sport'), (4, 'us'), (5, 'arrest'), (5, 'no'), (5, 'pakistan'), (5, 'refuge'), (6, 'say'), (10, '‘'), (25, '’')]
+https://www.dawn.com/archive/2015-09-16
+-------------------------------
+[(1, 'sexual')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'end'), (3, 'give'), (3, 'india'), (3, 'nab'), (3, 'notic'), (3, 'packag'), (3, 'polic'), (3, 'return'), (3, 'say'), (3, 'sc'), (3, 'school'), (3, 'sindh'), (3, 'us'), (3, 'warn'), (4, 'announc'), (4, 'get'), (4, 'issu'), (4, 'karachi'), (4, 'leagu'), (4, 'pm'), (4, 'set'), (4, 't20'), (5, 'pakistan'), (9, '‘'), (20, '’')]
+https://www.dawn.com/archive/2015-09-17
+-------------------------------
+[(2, 'rape')]
+|||||||||||||||||||||||||||||||||||||||||||
+[(3, 'claim'), (3, 'england'), (3, 'five'), (3, 'indian'), (3, 'kp'), (3, 'one'), (3, 'opposit'), (3, 'pm'), (3, 'poll'), (3, 'school'), (3, 'show'), (3, 'strike'), (3, 'tie'), (4, 'attack'), (4, 'fire'), (4, 'power'), (4, 'say'), (4, 'us'), (4, 'women'), (5, 'govt'), (5, 'pakistan'), (8, 'india'), (8, 'kill'), (14, '‘'), (18, '’')]
+https://www.dawn.com/archive/2015-09-18
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'trade'), (2, 'train'), (2, 'un'), (2, 'want'), (2, 'year'), (2, 'youth'), (3, 'armi'), (3, 'ban'), (3, 'held'), (3, 'karachi'), (3, "n't"), (3, 'nab'), (3, 'pakistan'), (3, 'report'), (4, 'attack'), (4, 'day'), (4, 'new'), (4, 'power'), (4, 'record'), (4, 'us'), (4, 'warn'), (6, 'kill'), (6, 'two'), (6, '‘'), (14, '’')]
+https://www.dawn.com/archive/2015-09-19
+-------------------------------
+[]
+|||||||||||||||||||||||||||||||||||||||||||
+[(2, 'time'), (2, 'troop'), (2, 'trump'), (2, 'visit'), (2, 'win'), (2, 'worker'), (2, 'yemen'), (3, '15'), (3, 'badab'), (3, 'dubai'), (3, 'head'), (3, 'imran'), (3, 'khan'), (3, 'need'), (3, 'ppp'), (3, 'suspect'), (3, 'us'), (3, 'week'), (4, 'leader'), (5, 'say'), (6, 'attack'), (6, '‘'), (7, 'kill'), (9, 'pakistan'), (15, '’')]
