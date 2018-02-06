@@ -58,6 +58,9 @@ def read_news(link):
 
 
 def getopts(argv):
+    """
+    Code used from https://gist.github.com/dideler/2395703 
+    """
     opts = {}  # Empty dictionary to store key-value pairs.
     while argv:  # While there are arguments left to parse...
         if argv[0][0] == '-':  # Found a "-name value" pair.
