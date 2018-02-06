@@ -57,7 +57,6 @@ def read_news(link):
     return title_list
 
 
-
 def getopts(argv):
     opts = {}  # Empty dictionary to store key-value pairs.
     while argv:  # While there are arguments left to parse...
